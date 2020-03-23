@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
         // buttonAnotherPlay = (Button) findViewById(R.id.buttonPlayAgain);
     }
-
+//here
     public void onPlayer1ButtonClick(View view) {
         hand1Details = new ArrayList<String>();
         Player1AllIcons = new ArrayList<String>();
